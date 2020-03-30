@@ -1,7 +1,7 @@
 # Time Table
 Quiz is an Open-source local Android app for storing time table of developer
 
-## Fetures
+## Features
 Displays timetable for classes along with professors name and class timings. Developer can add or remove the classes 
 
 # Installation
